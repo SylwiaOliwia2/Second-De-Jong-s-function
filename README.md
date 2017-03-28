@@ -3,3 +3,5 @@
  Script finds minimum of second De Jong's function based on genetic algorithm in space (-2.048,2.048).
  Each individual- point in the space- consits of two values (coorditates).
  Algorithm uses roulette selection and binary crossover.
+ 
+ Code is written in **Python 3.5**.
